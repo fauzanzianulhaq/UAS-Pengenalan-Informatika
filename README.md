@@ -14,4 +14,10 @@ Dalam membuat algoritma ini saya menggunakan draw.io untuk membuat algoritma ter
 
 ![flowchart makan](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/556f0889-4ce6-47b4-8cd2-804a79d72562)
 
+# 7. Mencoba Scratch Bahasa Indonesia
+Disini saya mencoba scratch yaitu disini itu kita membuat game yang dimana si game nya itu si kucing nya lompat jika ada objek di depan nya yang mendekati si kucing
+
+![scract ](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/6c73c092-10b7-4ab0-8dcf-72f96aea9eed)
+
+
 
