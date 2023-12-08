@@ -11,6 +11,7 @@ Untuk console di windows ada yang namanya CMD atau command prompt disini saya me
 # 5. Linux Terminal Menggunakan Google Colab
 # 6. Membuat Algoritma Dalam Bentuk Flow Chart
 Dalam membuat algoritma ini saya menggunakan draw.io untuk membuat algoritma tersebut, dengan cara saya login ke draw.io tersebut menggunakan akun google saya setelah login ada pilihan mau buat apa klik yang flowchart dan baru bikin flowchart. Disini saya membuat algoritma makan.
+
 ![flowchart makan](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/556f0889-4ce6-47b4-8cd2-804a79d72562)
 
 
