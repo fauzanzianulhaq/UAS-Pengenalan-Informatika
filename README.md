@@ -19,5 +19,11 @@ Disini saya mencoba scratch yaitu disini itu kita membuat game yang dimana si ga
 
 ![scract ](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/6c73c092-10b7-4ab0-8dcf-72f96aea9eed)
 
+# 8. Mencoba Algoritma Bubble Sort Menggunakan Java
+Disini saya membuat bubble sort nya di vscode dengan java dan saya pun dapat buuble sort nya dari google
+
+![bubble sort](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/84c97384-39c1-4838-a071-c3c96a833d5a)
+
+
 
 
