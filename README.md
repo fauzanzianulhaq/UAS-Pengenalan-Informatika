@@ -30,6 +30,17 @@
 - Setelah saya mendaftar saya melihat atau mengeksplore, ternyata tidak hanya satu bahasa yang menjadi topik ternyata ada beberapa bahasa lain juga seperti java,C,C++,Ruby,dan lain lain.Dan apabila kita berhasil memecahkan masalah dalam bahasa tersebut contohnya python maka kita juga akan mendapatkan sertifikat dari hackerrank nya tersebut
 - Disini juga saya mencoba memecahkan masalah java untuk masalah yang pertama disini saya disuruh memunculkan output hello world dan hello java menggunakan system.out.println
   ![mencoba hackerrank](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/49c9383b-8a6d-4543-8791-72e23da573f6)
+# 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser 
+- Untuk mendemontasrian aplikasi saya sudah pernah juga, disini saya mencantumkan link video saya
+  https://youtu.be/7x1lrNfr8CM?si=DnlN-7YxdMD9y2yb
+# 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
+Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gimana cara penginstalan laragon
+- pertama kita search di google laragon nanti akan muncul website resmi milik laragon,klik website tersebut
+- Setelah kita masuk ke website nya di tasa ada download kita klik itu
+- Setelah klik tombol download, kita diarahkan ke 2 plihan ada yang download full ada yang versi lite nya, download versi ful nya agar lebih bagus tidak terbatas si aplikasinya
+- Setelah ke download si laragon nya kita instal juga di laptop dan tampilan laragon seperti ini
+- Di laragon kita tinggal klik tombol start all maka akan langsung dijalankan apache serta MySQL nya
+  ![laragon](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/23ab0fe6-3b6a-4116-b14d-2c170adf9297)
 
 
 
