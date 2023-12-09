@@ -32,7 +32,7 @@
   ![mencoba hackerrank](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/49c9383b-8a6d-4543-8791-72e23da573f6)
 # 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser 
 - Untuk mendemontasrian aplikasi saya sudah pernah juga, disini saya mencantumkan link video saya
-  https://youtu.be/7x1lrNfr8CM?si=DnlN-7YxdMD9y2yb
+- https://youtu.be/7x1lrNfr8CM?si=DnlN-7YxdMD9y2yb
 # 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
 Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gimana cara penginstalan laragon
 - pertama kita search di google laragon nanti akan muncul website resmi milik laragon,klik website tersebut
