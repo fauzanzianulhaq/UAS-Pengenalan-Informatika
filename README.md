@@ -76,6 +76,15 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
   ![daftar harga pethop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5e51b517-e202-48ee-ab20-e3ac391a19bc)
   - ** Galeri **
     ![galeri petshop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d3d9eba6-796e-4cd9-92e3-751d7644609e)
+# 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
+# 18. Mencoba Pembuatan File JSON
+- Untuk pembuatan file json ini cukup mudah, yang pertama kita masuk ke vs code pilih folder yang mau diisi json, setelah itu di vscode kita membuat file json dengan nama file.josn, untuk nama bebas disini saya menamakan json nya yaitu file.json
+- Referensi : https://youtu.be/XylueYjlrio?si=0OqvUzDmsFI6POag
+  ![json](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/53bec226-0c9d-4b0c-af0e-7a47ace4b8d7)
+# 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
+# 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service 
+# 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
+
 
 
   
