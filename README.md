@@ -67,6 +67,13 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 - Untuk mencari indormasi sebuah domain disini saya menggunakan tools yang namanya who.is disini saya akan mencoba menggali informasi dari sebuah domain https://uinsgd.ac.id/
 - Referensi : https://youtu.be/G1CXerUmCTw?si=43FRiTO_cnz7wtVs
   ![informasi domain uin](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d4fcf658-73ac-4a16-b59d-96892bce4617)
+# 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
+- Disini saya membuat website petshop yang dimana ada beranda,gleri,dan daftar harga,disini saya menampilkan hasilnya
+  ** Beranda **
+  ![petshop beranda](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5037985a-7f90-4200-bbcb-5754bcb96606)
+
+  
+
 
 
 
