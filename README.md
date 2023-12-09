@@ -69,8 +69,14 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
   ![informasi domain uin](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d4fcf658-73ac-4a16-b59d-96892bce4617)
 # 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
 - Disini saya membuat website petshop yang dimana ada beranda,gleri,dan daftar harga,disini saya menampilkan hasilnya
+- Referensi : https://youtu.be/Q2VqCG13ejA?si=84I7N5yrk9dgin6r
  -  ** Beranda **
   ![petshop beranda](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5037985a-7f90-4200-bbcb-5754bcb96606)
+- ** Daftar Harga **
+  ![daftar harga pethop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5e51b517-e202-48ee-ab20-e3ac391a19bc)
+  - ** Galeri **
+    ![galeri petshop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d3d9eba6-796e-4cd9-92e3-751d7644609e)
+
 
   
 
