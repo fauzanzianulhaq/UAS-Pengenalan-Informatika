@@ -84,6 +84,30 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 # 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
 # 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service 
 # 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
+# 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
+- Disini saya akan sedikit menjelaskan apa itu developer tools, Developer tools ini biasanya digunakan disaat codingan kita ada kesalahan atau eror dan biasanya developer tools ini muncul ketika kita menekan ctrl+shift+j
+- Contoh disaat kita selesai beres ngoding di bagian back end nya disaat kita mencoba memeasukan email dan password di halaman login tersebut tiba tiba tidak bisa masuk padahal sudah benar email dan password nya, nah biasanya untuk mengecek kesalahan nya biasanya di cek juga di developer tools nya contoh nya di network nya merah atau yang lainnya
+![developer tools](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/0f5e9a4e-c633-4906-bbf3-2cbb53a79ff2)
+# 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
+- Disini saya lebih tertarik AWS, kenapa AWS? Karena di AWS emang sudah terpercaya apalagi sudah dipakai di perusahaan perusahaan besar seperti gojek dan juga keamanan data yang tinggi sehiungga kita aman menyimpan data di AWS
+- Adapun layanan-layanan yang ada di AWS
+   - Migrasi data
+   - Keamanan
+   - Penyimpanan data
+   - Database
+   - Tools manajemen
+   - Analytics
+![aws](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/bf2230e8-93d7-4e9f-802f-0bc127c2e5e7)
+# 24. Mencoba Penggunaan Content Management System (Wordpress)
+# 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
+# 26. Mencoba Edit Konten Multimedia (Image, Audio, Video)
+# 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
+# 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab
+# 29. Mencoba Web Tool AI Discriminative (Image Classification)
+- Dissini saya mencoba mendeskripsikan seorang anak yang sedang ngoding di suatu ruangan dengan karakter kartun kepada bing image kreator
+![bing img](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/371ca53c-4db1-4841-bd48-4f8251ddb7ca)
+
+
 
 
 
