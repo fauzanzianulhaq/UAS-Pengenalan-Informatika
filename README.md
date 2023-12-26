@@ -1,19 +1,17 @@
 # 1. Menjelaskan dan Menginternalisasi Computational Thinking
+Saya Menjelaskan nya Di wordpress saya jadi saya cantumkan link wordpress saya
+https://fauzanzianulhaq.wordpress.com/2023/12/20/halo/
 # 2. Menjelaskan Jenis-Jenis Mesin Komputasi
+https://www.youtube.com/watch?v=fzXJZ3h-l2Y&t=116s
 # 3.Mengktifkan dan Mencoba Google Colab [v]
-- Disini saya sudah mengaktifkan google colab saya di google drive saya, untuk mengaktifkan nya cukup gampang yaitu kita pergi ke gogle drive nya, di kiri pojok atas ada +baru klik itu terus ada lainnya, itu klik lainnya terus bakal diarahkan kaya playstore untuk menginstal si google colab nya
-![aktifkan google colab](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/9ea34f30-5b93-4454-b8a2-4191d31cb09e)
-- Setelah menginstal atau mengaktifkan google colab nya di google drive saya mencoba google colab dengan perintah print (45)
-![coba google colab](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/c327b31d-2a67-4bf0-8825-854addde4b06)
+- Disini saya sudah mengaktifkan google colab saya di google drive saya, untuk mengaktifkan nya cukup gampang yaitu kita pergi ke gogle drive nya, di kiri pojok atas ada +baru klik itu terus ada lainnya, itu klik lainnya terus bakal diarahkan kaya playstore untuk menginstal si google colab nya, Berikut adalah link vidio nya
+https://drive.google.com/file/d/1VcgOazETCDtLN8E5XzH9QdK1gia2RjzG/view?usp=sharing
 # 4. Mencoba Console Sistem Operasi
 https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=sharing
 # 5. Linux Terminal Menggunakan Google Colab
 # 6. Membuat Algoritma Dalam Bentuk Flow Chart
 - Dalam membuat algoritma ini saya menggunakan draw.io untuk membuat algoritma tersebut, dengan cara saya login ke draw.io tersebut menggunakan akun google saya setelah login ada pilihan mau buat apa klik yang flowchart dan baru bikin flowchart. Disini saya membuat algoritma makan.
-- Referensi : https://youtu.be/vZOEiigcCRM?si=BMO6aRNV_Gs9jU81
-
-![flowchart makan](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/556f0889-4ce6-47b4-8cd2-804a79d72562)
-
+  https://drive.google.com/file/d/1q5Ums9e9G51qM0ZkQN1YISpFqis37tit/view?usp=sharing
 # 7. Mencoba Scratch Bahasa Indonesia
 - Disini saya mencoba scratch yaitu disini itu kita membuat game yang dimana si game nya itu si kucing nya lompat jika ada objek di depan nya yang mendekati si kucing
 - - Referensi : https://youtu.be/-MahZIgAxhM?si=qOk9v21i8NpbRsQU
@@ -22,8 +20,7 @@ https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=shari
 
 # 8. Mencoba Algoritma Bubble Sort Menggunakan Java
 - Disini saya membuat bubble sort nya di vscode dengan java dan saya pun dapat buuble sort nya dari google
-
-![bubble sort](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/84c97384-39c1-4838-a071-c3c96a833d5a)
+https://drive.google.com/file/d/1pl7mdTlZ3aB932x5ENjeupDvk7DmNm17/view?usp=sharing
 # 9. Mencoba dan Mendemonstrasikan Penggunakan IDE
 # 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank
 - Disini saya mendaftar akun google saya ke hackerrank 
@@ -41,92 +38,81 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 - Setelah klik tombol download, kita diarahkan ke 2 plihan ada yang download full ada yang versi lite nya, download versi ful nya agar lebih bagus tidak terbatas si aplikasinya
 - Setelah ke download si laragon nya kita instal juga di laptop dan tampilan laragon seperti ini
 - Di laragon kita tinggal klik tombol start all maka akan langsung dijalankan apache serta MySQL nya
-- - Referensi : https://youtu.be/9a8O0Q5JThU?si=uFw88m2YkUU6o89t
+- - Link Video : https://drive.google.com/file/d/1h-qGTkCC3qghEaZtRoh2vwKjp9QpHZI5/view?usp=sharing
   ![laragon](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/23ab0fe6-3b6a-4116-b14d-2c170adf9297)
 # 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer 
 # 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML
-- Untuk kita memasuki website HTML kita harus tahu dulu apa itu HTML.
-- HTML adalah bahasa markup yang umumnya digunakan untuk menyusun bagian paragraf, heading, maupun link pada halaman web. Namun, meskipun susunannya seperti coding, perlu diketahui bahwa HTML bukanlah bahasa pemrograman.
-- Jadi kesimpulan diatas adalah html itu bukan bahasa pemrograman, melainkan bahsa markup yang dimana digunakan untuk membuat tabel, heading,paragraf, dan lain lain
-- Untuk mengakses website HTML kita bisa search di google html terus kita diarahkan ada website w3school kita klik itu
-- Setelah masuk ke website w3school kita dilihatkan berbagai syntax html beserta contoh contohnya yang bisa kita coba atau edit juga si contoh syntax tersebut
-  ![w3school html](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/c6bf7640-fc37-48d0-a6bf-da3348336979)
+- https://drive.google.com/file/d/1Z3DZXCDqFM3J0hLoywvWBO5h1ZJ2f0P9/view?usp=sharing
 # 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) 
-- URL adalah sebuah identifikasi unik yang digunakan untuk menemukan apa saja di internet
-- URL memberi tahu web browser bagaimana dan dimana untuk mengambil sumber daya di internet
-- URL ada 3 bagian
-    - Protokol
-    - Domain
-    - Path
-- Sebagai Contoh saya mengetikan link yotube dibawah sini
-- Referensi : https://youtu.be/DtJxopj_fzA?si=nbMaARHNBzcAYNCu
-  ![url](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/2c06f97d-61f1-47f2-8e01-02743ff1d901)
+- https://drive.google.com/file/d/1qA2LxLCXcyqbbSXNRFv6Eda_4tLWE3Sj/view?usp=sharing
 # 15. Mencoba Pelacakan Informasi Server dari Alamat Domain
-- Untuk mencari indormasi sebuah domain disini saya menggunakan tools yang namanya who.is disini saya akan mencoba menggali informasi dari sebuah domain https://uinsgd.ac.id/
-- Referensi : https://youtu.be/G1CXerUmCTw?si=43FRiTO_cnz7wtVs
-  ![informasi domain uin](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d4fcf658-73ac-4a16-b59d-96892bce4617)
+- https://drive.google.com/file/d/1tzC_7c1zkGAWMSbmSZ6lYcZd9rQhFQbj/view?usp=sharing
 # 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
-- Disini saya membuat website petshop yang dimana ada beranda,gleri,dan daftar harga,disini saya menampilkan hasilnya
-- Referensi : https://youtu.be/Q2VqCG13ejA?si=84I7N5yrk9dgin6r
- -  ** Beranda **
-  ![petshop beranda](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5037985a-7f90-4200-bbcb-5754bcb96606)
-- ** Daftar Harga **
-  ![daftar harga pethop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/5e51b517-e202-48ee-ab20-e3ac391a19bc)
-  - ** Galeri **
-    ![galeri petshop](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/d3d9eba6-796e-4cd9-92e3-751d7644609e)
+- https://drive.google.com/file/d/13wP-C-OgTFuBwLjwFvD3EIuO6F8GbcFk/view?usp=sharing
 # 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
+- https://drive.google.com/file/d/1FJMhi95QidHxSA7jNoFWuE7pQMzQ91QD/view?usp=sharing
 # 18. Mencoba Pembuatan File JSON
-- Untuk pembuatan file json ini cukup mudah, yang pertama kita masuk ke vs code pilih folder yang mau diisi json, setelah itu di vscode kita membuat file json dengan nama file.josn, untuk nama bebas disini saya menamakan json nya yaitu file.json
-- Referensi : https://youtu.be/XylueYjlrio?si=0OqvUzDmsFI6POag
-  ![json](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/53bec226-0c9d-4b0c-af0e-7a47ace4b8d7)
+- https://drive.google.com/file/d/1pQ1fvNLGKHzkGKqV7B77dMePzH9B-0Or/view?usp=sharing
 # 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
+- https://drive.google.com/file/d/1svLQTCRmz85CGImTAgkmNDoX-lTJaDTA/view?usp=sharing
 # 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service 
 # 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
 # 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
-- Disini saya akan sedikit menjelaskan apa itu developer tools, Developer tools ini biasanya digunakan disaat codingan kita ada kesalahan atau eror dan biasanya developer tools ini muncul ketika kita menekan ctrl+shift+j
-- Contoh disaat kita selesai beres ngoding di bagian back end nya disaat kita mencoba memeasukan email dan password di halaman login tersebut tiba tiba tidak bisa masuk padahal sudah benar email dan password nya, nah biasanya untuk mengecek kesalahan nya biasanya di cek juga di developer tools nya contoh nya di network nya merah atau yang lainnya
-![developer tools](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/0f5e9a4e-c633-4906-bbf3-2cbb53a79ff2)
+- https://drive.google.com/file/d/1biDhjwE0Mjm4BphugbnlqMXSLeRXYN8z/view?usp=sharing
 # 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
-- Disini saya lebih tertarik AWS, kenapa AWS? Karena di AWS emang sudah terpercaya apalagi sudah dipakai di perusahaan perusahaan besar seperti gojek dan juga keamanan data yang tinggi sehiungga kita aman menyimpan data di AWS
-- Adapun layanan-layanan yang ada di AWS
-   - Migrasi data
-   - Keamanan
-   - Penyimpanan data
-   - Database
-   - Tools manajemen
-   - Analytics
-![aws](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/bf2230e8-93d7-4e9f-802f-0bc127c2e5e7)
+- https://drive.google.com/file/d/18efEeiDJWcWhOLH82CqgyxThLCHeA3Gn/view?usp=sharing
 # 24. Mencoba Penggunaan Content Management System (Wordpress)
+https://fauzanzianulhaq.wordpress.com/
 # 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
 # 26. Mencoba Edit Konten Multimedia (Image, Audio, Video)
 # 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
 # 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab
 # 29. Mencoba Web Tool AI Discriminative (Image Classification)
-- Dissini saya mencoba mendeskripsikan seorang anak yang sedang ngoding di suatu ruangan dengan karakter kartun kepada bing image kreator
-![bing img](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/371ca53c-4db1-4841-bd48-4f8251ddb7ca)
+- https://drive.google.com/file/d/1zFNXBnYsSAPf_UBnaiBo6euBSzJLsisN/view?usp=sharing
 # 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text)
+- https://drive.google.com/file/d/1BWmKecTvDiF6XI01JNxQFjBc3LUFt4iw/view?usp=sharing
 # 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace
 # 32. Mencoba Data Visualization Dengan Tools 
 # 33. Mencoba Data Visualization Dengan Code
 # 34. Mendaftar dan Mencoba Eksplorasi HuggingFace 
 # 35. Mendaftar dan Mencoba Eksplorasi Kaggle
+- https://drive.google.com/file/d/1NTCBDjx9MnDt236KOLnXHDuunxm_ZTax/view?usp=sharing
 # 36. Mencoba Protokol Komunikasi IoT (MQTT)
+- https://drive.google.com/file/d/19rEjzQmfYQmTr0IZ08biPQPVb9w2la25/view?usp=sharing
 # 37. Mencoba Memproses File CSV Menggunakan Google Colab
 # 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab
 # 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
 # 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP)
 # 41. Menonton Video Presentasi Tugas Akhir Informatika
+- https://drive.google.com/file/d/1Qzu0hB1FVDwza-QwtKrkK7zZjDMmgvoo/view?usp=sharing
 # 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati 
+- https://drive.google.com/file/d/1ssadZlbeDah-qMMQOChOmppu2hY244ar/view?usp=sharing
 # 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo)
+- https://drive.google.com/file/d/1R0NXYkJmo6pmyh8Y4DJ_L5h1jqbd3WXB/view?usp=sharing
 # 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+- https://drive.google.com/file/d/1n_clwhmujC5UQsdm9mkZLmZrGAtgHhwT/view?usp=sharing
 # 45. Eksplorasi Lowongan Pekerjaan IT
+- https://drive.google.com/file/d/1ZwQKsj6qKlXzHemkxeAY7xp2SejU3HRE/view?usp=sharing
 # 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) 
+- https://drive.google.com/file/d/1lo197TClKjj-YxDBePI2XQKkDdd5uv7e/view?usp=sharing
 # 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh 
+- https://drive.google.com/file/d/1o7dWbisUvgTvBXoHNNBjbzyuja5hAMT9/view?usp=sharing
 # 48. Eksplorasi Top Github Project yang Diminati
+- https://drive.google.com/file/d/1uTEA7TwIWlMSv5MeSKjoZjWPQZf-QI_N/view?usp=sharing
 # 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
+- https://drive.google.com/file/d/1UlTKN-VCKGMhxKfPUNbTm29YJZPd5qDE/view?usp=sharing
 # 50.Membangun Profil Github Page
+- https://drive.google.com/file/d/1x9u5n7A7M979wNkys1Uym6k6duC_ShL7/view?usp=sharing
 # 51. Mengikuti Workshop / Event / Course Terkait IT
+- Disini saya mengikuti event yaitu yang pertama mengenai AI yang acaranya tersebut diselenggarakan oleh teknik informatika itu sendiri
+- ![seminar](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/fe41d121-fe5a-4bce-8553-7d6d3f1d8093)
+
+- Yang kedua saya ikut course yang dimana acaranya mengenai laravel gimana caranya instal project laravel sampai pembuatan aplikasi bareng
+- ![worksop 2](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/9c9be337-92b3-4cd1-b324-29b2cf3d9c9d)
 # 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
+- Disini saya mengambil buku tentang kala takdir masih bisa diubah buku ini berisi kumpulan kumpulan inspirasi untuk hidup bahagia
+- ![WhatsApp Image 2023-12-26 at 19 32 52](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/f6534651-f4d6-40e9-ad95-e429d37b7f81)
+
 
 
 
