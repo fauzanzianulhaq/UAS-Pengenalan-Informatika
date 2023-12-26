@@ -1,5 +1,5 @@
-# 1.
-# 2.
+# 1. Menjelaskan dan Menginternalisasi Computational Thinking
+# 2. Menjelaskan Jenis-Jenis Mesin Komputasi
 # 3.Mengktifkan dan Mencoba Google Colab [v]
 - Disini saya sudah mengaktifkan google colab saya di google drive saya, untuk mengaktifkan nya cukup gampang yaitu kita pergi ke gogle drive nya, di kiri pojok atas ada +baru klik itu terus ada lainnya, itu klik lainnya terus bakal diarahkan kaya playstore untuk menginstal si google colab nya
 ![aktifkan google colab](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/9ea34f30-5b93-4454-b8a2-4191d31cb09e)
@@ -106,6 +106,29 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 # 29. Mencoba Web Tool AI Discriminative (Image Classification)
 - Dissini saya mencoba mendeskripsikan seorang anak yang sedang ngoding di suatu ruangan dengan karakter kartun kepada bing image kreator
 ![bing img](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/371ca53c-4db1-4841-bd48-4f8251ddb7ca)
+# 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text)
+# 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace
+# 32. Mencoba Data Visualization Dengan Tools 
+# 33. Mencoba Data Visualization Dengan Code
+# 34. Mendaftar dan Mencoba Eksplorasi HuggingFace 
+# 35. Mendaftar dan Mencoba Eksplorasi Kaggle
+# 36. Mencoba Protokol Komunikasi IoT (MQTT)
+# 37. Mencoba Memproses File CSV Menggunakan Google Colab
+# 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab
+# 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
+# 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP)
+# 41. Menonton Video Presentasi Tugas Akhir Informatika
+# 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati 
+# 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo)
+# 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+# 45. Eksplorasi Lowongan Pekerjaan IT
+# 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) 
+# 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh 
+# 48. Eksplorasi Top Github Project yang Diminati
+# 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
+# 50.Membangun Profil Github Page
+# 51. Mengikuti Workshop / Event / Course Terkait IT
+# 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
 
 
 
