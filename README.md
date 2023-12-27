@@ -103,7 +103,7 @@ https://fauzanzianulhaq.wordpress.com/
 - https://drive.google.com/file/d/1UlTKN-VCKGMhxKfPUNbTm29YJZPd5qDE/view?usp=sharing
 # 50.Membangun Profil Github Page
 - https://drive.google.com/file/d/1x9u5n7A7M979wNkys1Uym6k6duC_ShL7/view?usp=sharing
-- Github page sudah jadi : fauzanzianulhaq.github.io
+- Github page sudah jadi : https://fauzanzianulhaq.github.io/
 # 51. Mengikuti Workshop / Event / Course Terkait IT
 - Disini saya mengikuti event yaitu yang pertama mengenai AI yang acaranya tersebut diselenggarakan oleh teknik informatika itu sendiri
 - ![seminar](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/fe41d121-fe5a-4bce-8553-7d6d3f1d8093)
