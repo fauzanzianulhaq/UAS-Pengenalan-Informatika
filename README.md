@@ -20,11 +20,7 @@ https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=shari
 https://drive.google.com/file/d/1pl7mdTlZ3aB932x5ENjeupDvk7DmNm17/view?usp=sharing
 # 9. Mencoba dan Mendemonstrasikan Penggunakan IDE
 # 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank
-- Disini saya mendaftar akun google saya ke hackerrank 
-![daftar hackerrank](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/ce0c89a4-b073-426b-b522-35b4f4edc72b)
-- Setelah saya mendaftar saya melihat atau mengeksplore, ternyata tidak hanya satu bahasa yang menjadi topik ternyata ada beberapa bahasa lain juga seperti java,C,C++,Ruby,dan lain lain.Dan apabila kita berhasil memecahkan masalah dalam bahasa tersebut contohnya python maka kita juga akan mendapatkan sertifikat dari hackerrank nya tersebut
-- Disini juga saya mencoba memecahkan masalah java untuk masalah yang pertama disini saya disuruh memunculkan output hello world dan hello java menggunakan system.out.println
-  ![mencoba hackerrank](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/49c9383b-8a6d-4543-8791-72e23da573f6)
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/58
 # 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser 
 - Untuk mendemontasrian aplikasi saya sudah pernah juga, disini saya mencantumkan link video saya
 - https://youtu.be/7x1lrNfr8CM?si=DnlN-7YxdMD9y2yb
