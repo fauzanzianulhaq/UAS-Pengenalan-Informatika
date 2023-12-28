@@ -72,6 +72,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text)
 - https://drive.google.com/file/d/1BWmKecTvDiF6XI01JNxQFjBc3LUFt4iw/view?usp=sharing
 # 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/79
 # 33. Mencoba Data Visualization Dengan Tools 
 # 34. Mencoba Data Visualization Dengan Code
 # 35. Mendaftar dan Mencoba Eksplorasi HuggingFace 
