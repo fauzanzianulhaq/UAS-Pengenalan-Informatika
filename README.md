@@ -86,6 +86,7 @@ https://wordpress.com/post/fauzanzianulhaq.wordpress.com/101
 # 38. Mencoba Memproses File CSV Menggunakan Google Colab
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/108
 # 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab
+-  https://wordpress.com/post/fauzanzianulhaq.wordpress.com/79
 # 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
 # 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP)
 # 42. Menonton Video Presentasi Tugas Akhir Informatika
