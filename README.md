@@ -76,6 +76,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 33. Mencoba Data Visualization Dengan Tools 
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/85
 # 34. Mencoba Data Visualization Dengan Code
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/85
 # 35. Mendaftar dan Mencoba Eksplorasi HuggingFace 
 # 36. Mendaftar dan Mencoba Eksplorasi Kaggle
 - https://drive.google.com/file/d/1NTCBDjx9MnDt236KOLnXHDuunxm_ZTax/view?usp=sharing
