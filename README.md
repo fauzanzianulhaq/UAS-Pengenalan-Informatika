@@ -51,6 +51,7 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 - https://drive.google.com/file/d/1pQ1fvNLGKHzkGKqV7B77dMePzH9B-0Or/view?usp=sharing
 # 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
 - https://drive.google.com/file/d/1svLQTCRmz85CGImTAgkmNDoX-lTJaDTA/view?usp=sharing
+- web yang dihosting : https://petshopuzan.000webhostapp.com/
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service 
 -  https://drive.google.com/file/d/1svLQTCRmz85CGImTAgkmNDoX-lTJaDTA/view?usp=sharing
 # 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
