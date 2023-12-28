@@ -66,6 +66,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/73
 # 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab
+- https://drive.google.com/file/d/1kNNWhTlNQlw6-1XV78da6ZzMrfc9yMsf/view?usp=sharing
 # 30. Mencoba Web Tool AI Discriminative (Image Classification)
 - https://drive.google.com/file/d/1zFNXBnYsSAPf_UBnaiBo6euBSzJLsisN/view?usp=sharing
 # 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text)
