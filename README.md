@@ -53,6 +53,7 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service 
 -  https://drive.google.com/file/d/1svLQTCRmz85CGImTAgkmNDoX-lTJaDTA/view?usp=sharing
 # 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/122
 # 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
 - https://drive.google.com/file/d/1biDhjwE0Mjm4BphugbnlqMXSLeRXYN8z/view?usp=sharing
 # 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
