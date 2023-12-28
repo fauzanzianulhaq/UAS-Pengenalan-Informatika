@@ -78,6 +78,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 34. Mencoba Data Visualization Dengan Code
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/85
 # 35. Mendaftar dan Mencoba Eksplorasi HuggingFace 
+https://wordpress.com/post/fauzanzianulhaq.wordpress.com/101
 # 36. Mendaftar dan Mencoba Eksplorasi Kaggle
 - https://drive.google.com/file/d/1NTCBDjx9MnDt236KOLnXHDuunxm_ZTax/view?usp=sharing
 # 37. Mencoba Protokol Komunikasi IoT (MQTT)
