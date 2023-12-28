@@ -84,6 +84,7 @@ https://wordpress.com/post/fauzanzianulhaq.wordpress.com/101
 # 37. Mencoba Protokol Komunikasi IoT (MQTT)
 - https://drive.google.com/file/d/19rEjzQmfYQmTr0IZ08biPQPVb9w2la25/view?usp=sharing
 # 38. Mencoba Memproses File CSV Menggunakan Google Colab
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/108
 # 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab
 # 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
 # 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP)
