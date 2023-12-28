@@ -61,7 +61,9 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 # 24. Mencoba Penggunaan Content Management System (Wordpress)
 https://fauzanzianulhaq.wordpress.com/
 # 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
+- https://drive.google.com/file/d/1kHmqjlsM70hWB37KbPT1RHzo0dDAdqcR/view?usp=sharing
 # 26. Mencoba Edit Konten Multimedia (Image, Audio, Video)
+- https://drive.google.com/file/d/1kHmqjlsM70hWB37KbPT1RHzo0dDAdqcR/view?usp=sharing
 # 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
 # 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab
 # 29. Mencoba Web Tool AI Discriminative (Image Classification)
