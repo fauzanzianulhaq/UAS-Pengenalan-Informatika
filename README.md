@@ -74,6 +74,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/79
 # 33. Mencoba Data Visualization Dengan Tools 
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/85
 # 34. Mencoba Data Visualization Dengan Code
 # 35. Mendaftar dan Mencoba Eksplorasi HuggingFace 
 # 36. Mendaftar dan Mencoba Eksplorasi Kaggle
