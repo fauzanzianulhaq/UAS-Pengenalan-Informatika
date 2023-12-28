@@ -13,10 +13,7 @@ https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=shari
 - Dalam membuat algoritma ini saya menggunakan draw.io untuk membuat algoritma tersebut, dengan cara saya login ke draw.io tersebut menggunakan akun google saya setelah login ada pilihan mau buat apa klik yang flowchart dan baru bikin flowchart. Disini saya membuat algoritma makan.
   https://drive.google.com/file/d/1q5Ums9e9G51qM0ZkQN1YISpFqis37tit/view?usp=sharing
 # 7. Mencoba Scratch Bahasa Indonesia
-- Disini saya mencoba scratch yaitu disini itu kita membuat game yang dimana si game nya itu si kucing nya lompat jika ada objek di depan nya yang mendekati si kucing
-- - Referensi : https://youtu.be/-MahZIgAxhM?si=qOk9v21i8NpbRsQU
-
-![scract ](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/6c73c092-10b7-4ab0-8dcf-72f96aea9eed)
+- https://fauzanzianulhaq.wordpress.com/2023/12/28/sratch-bahasa-indonesia/
 
 # 8. Mencoba Algoritma Bubble Sort Menggunakan Java
 - Disini saya membuat bubble sort nya di vscode dengan java dan saya pun dapat buuble sort nya dari google
