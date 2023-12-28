@@ -35,6 +35,7 @@ Untuk menginstal MySQL saya sudah pernah paling disini saya akan menjelaskan gim
 - - Link Video : https://drive.google.com/file/d/1h-qGTkCC3qghEaZtRoh2vwKjp9QpHZI5/view?usp=sharing
   ![laragon](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/23ab0fe6-3b6a-4116-b14d-2c170adf9297)
 # 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer 
+- https://drive.google.com/file/d/1EvEGmOkEIxl_WQyKXNz1HGspn7gGI926/view?usp=sharing
 # 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML
 - https://drive.google.com/file/d/1Z3DZXCDqFM3J0hLoywvWBO5h1ZJ2f0P9/view?usp=sharing
 # 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) 
