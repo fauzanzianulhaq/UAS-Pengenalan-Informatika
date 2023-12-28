@@ -90,6 +90,7 @@ https://wordpress.com/post/fauzanzianulhaq.wordpress.com/101
 # 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/118
 # 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP)
+- https://drive.google.com/file/d/1gn5jx8BWHm9nY7KO-Lknn1yQgZsxSrtu/view?usp=sharing
 # 42. Menonton Video Presentasi Tugas Akhir Informatika
 - https://drive.google.com/file/d/1Qzu0hB1FVDwza-QwtKrkK7zZjDMmgvoo/view?usp=sharing
 # 43. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati 
