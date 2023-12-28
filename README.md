@@ -104,8 +104,7 @@ https://fauzanzianulhaq.wordpress.com/
 # 52. Mengikuti Workshop / Event / Course Terkait IT
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/64
 # 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
-- Disini saya mengambil buku tentang kala takdir masih bisa diubah buku ini berisi kumpulan kumpulan inspirasi untuk hidup bahagia
-- ![WhatsApp Image 2023-12-26 at 19 32 52](https://github.com/fauzanzianulhaq/UAS-Pengenalan-Informatika/assets/115859323/f6534651-f4d6-40e9-ad95-e429d37b7f81)
+- https://wordpress.com/post/fauzanzianulhaq.wordpress.com/69
 
 
 
