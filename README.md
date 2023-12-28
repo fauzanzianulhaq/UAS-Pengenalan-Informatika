@@ -9,6 +9,7 @@ https://drive.google.com/file/d/1VcgOazETCDtLN8E5XzH9QdK1gia2RjzG/view?usp=shari
 # 4. Mencoba Console Sistem Operasi
 https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=sharing
 # 5. Linux Terminal Menggunakan Google Colab
+- https://drive.google.com/file/d/1Xqv9g-HosLmBC2wC2KPh8HJkuMhOnYWg/view?usp=sharing
 # 6. Membuat Algoritma Dalam Bentuk Flow Chart
 - Dalam membuat algoritma ini saya menggunakan draw.io untuk membuat algoritma tersebut, dengan cara saya login ke draw.io tersebut menggunakan akun google saya setelah login ada pilihan mau buat apa klik yang flowchart dan baru bikin flowchart. Disini saya membuat algoritma makan.
   https://drive.google.com/file/d/1q5Ums9e9G51qM0ZkQN1YISpFqis37tit/view?usp=sharing
