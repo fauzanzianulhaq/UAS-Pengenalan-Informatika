@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1AU5m5wsx63xKCKV0cxABmRdad3LOxRCh/view?usp=shari
 - Disini saya membuat bubble sort nya di vscode dengan java dan saya pun dapat buuble sort nya dari google
 https://drive.google.com/file/d/1pl7mdTlZ3aB932x5ENjeupDvk7DmNm17/view?usp=sharing
 # 9. Mencoba dan Mendemonstrasikan Penggunakan IDE
+- https://drive.google.com/file/d/13wP-C-OgTFuBwLjwFvD3EIuO6F8GbcFk/view?usp=sharing
 # 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank
 - https://wordpress.com/post/fauzanzianulhaq.wordpress.com/58
 # 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser 
